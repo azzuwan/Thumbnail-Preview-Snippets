@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePreviewServer", "FilePreviewServer\FilePreviewServer.csproj", "{35460AA4-B94A-4B64-9418-7243EC3D2F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThumbnailGeneratorExample", "ThumbnailGeneratorExample\ThumbnailGeneratorExample.csproj", "{DBF3D9B3-35F9-4473-BBCD-34A2F4539884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35460AA4-B94A-4B64-9418-7243EC3D2F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35460AA4-B94A-4B64-9418-7243EC3D2F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35460AA4-B94A-4B64-9418-7243EC3D2F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35460AA4-B94A-4B64-9418-7243EC3D2F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF3D9B3-35F9-4473-BBCD-34A2F4539884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF3D9B3-35F9-4473-BBCD-34A2F4539884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF3D9B3-35F9-4473-BBCD-34A2F4539884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF3D9B3-35F9-4473-BBCD-34A2F4539884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

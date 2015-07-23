@@ -1,0 +1,16 @@
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\obj\Debug\ThumbnailGeneratorExample.csprojResolveAssemblyReference.cache
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\ThumbnailGeneratorExample.exe.config
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\ThumbnailGeneratorExample.exe
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\ThumbnailGeneratorExample.pdb
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.xml
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.xml
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\obj\Debug\ThumbnailGeneratorExample.exe
+D:\Desktop\FilePreview\FilePreview\ThumbnailGeneratorExample\obj\Debug\ThumbnailGeneratorExample.pdb
